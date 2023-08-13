@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Your Name]'s GitHub Profile</title>
+  <title>Amit Kumar Dubey's GitHub Profile</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -50,7 +50,6 @@
     <div class="info">
       <h2>Hello, I'm Amit Kumar Dubey!</h2>
       <p>[Front-End Developer] | [Kalyani]</p>
-      <p class="bio">[Short bio about yourself]</p>
       <a href="[Your Portfolio/Blog]">Portfolio/Blog</a> |
       <a href="[https://www.linkedin.com/in/amit-kumar-dubey-832b711b8/]">LinkedIn</a> |
       <a href="[https://github.com/amitkumardubey20]">GitHub</a>
